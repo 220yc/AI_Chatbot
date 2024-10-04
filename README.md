@@ -1,4 +1,4 @@
-# Information AI Chatbot Hackathon: Smart Campus Dialogue Service Platform
+# AI Chatbot Hackathon: Smart Campus Dialogue Service Platform
 
 ## 1. Introduction
 The theme is **Smart Campus**, and the platform for deployment is **WebChat**. By utilizing the chatbot platform **C.ai**, we will create our own AI chatbot to implement various smart campus services, such as student inquiries, course queries, library reservations, and more, leveraging technology to solve campus-related issues.
