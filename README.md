@@ -17,3 +17,7 @@ The theme is **Smart Campus**, and the platform for deployment is **WebChat**. B
 ## 3. Takeaways
 - **Technical Skill Enhancement**: Designing the chatbot for the first time has deepened our understanding of chatbot development and familiarized us with related technologies, such as natural language processing and database management.
 - **Problem-Solving Skills**: Throughout the development process, we encountered various technical challenges and learned to effectively seek solutions, enhancing our ability to learn independently.
+
+--
+
+![image](https://github.com/user-attachments/assets/645895bc-798e-4e42-9cab-9db5a010fde2)
